@@ -19,6 +19,7 @@ All of the designs within the Blackstone Design Kit meet the <a href="https://ww
 * Core visual styles, components, and templates are broken out into respective pages
 * Use the components and core visual styles to build out your design
 * Updates to the Design Kit will be posted in our change log, so check back frequently for changes!
+* The Design Kit uses **Material Icons** - all SVG files are located in /assets/material-icons/ - use **symbol-def.svg** in your front-end 
 
 ### Developers:
 More info to come
