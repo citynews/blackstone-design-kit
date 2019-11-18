@@ -1,0 +1,134 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2B31380-7FB4-4EE1-8AD3-0C3453FD1F5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 156,
+    "width": 1054,
+    "x": 52,
+    "y": 288
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "maintainScrollPosition": false,
+  "name": "color white",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CB117292-508B-4769-A373-291630AB24D0_stringValue",
+      "value": "$global-font-family"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AFAE433C-01BC-4667-A361-DCDA02619106_layerStyle",
+      "value": "EE290E76-620D-4257-8E33-FFD52B494E9E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "66F9A74D-6AA4-4364-A2AA-99EA9E9361CE_stringValue",
+      "value": "14px / .875rem"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8D40BA8C-98C4-44E7-AF1C-0870B2E14E3E_stringValue",
+      "value": "$body-01"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "89445E85-5192-46BE-9D89-481953EABFB4_stringValue",
+      "value": "$global-emphasis-color"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E52EE23-A1DA-42F3-B3C7-1485F7A3B03E_stringValue",
+      "value": "body-01"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2180FF57-A2BE-4688-A2E2-0479B091C9A2_stringValue",
+      "value": "16px / 1rem"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4F5C8741-C76F-4003-A1A4-D45FE5A88090_stringValue",
+      "value": "400"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3666B01B-0B82-4972-A7A2-20026F461938_stringValue",
+      "value": "This is for medium/short paragraphs with no more than 4 lines and is commonly used in components like forms."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D3846FFE-EAB3-42BC-96CA-562D09070B84",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "65722118-C137-4D52-88D1-02F7639B4D8F",
+  "verticalSpacing": 0
+}

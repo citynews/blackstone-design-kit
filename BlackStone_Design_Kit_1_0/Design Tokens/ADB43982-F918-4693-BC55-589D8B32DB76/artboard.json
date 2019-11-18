@@ -1,0 +1,184 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADB43982-F918-4693-BC55-589D8B32DB76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2178,
+    "width": 1160,
+    "x": 1940,
+    "y": -1320
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "790D421F-D764-429E-B222-DFEB0CFD6E96"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2B31380-7FB4-4EE1-8AD3-0C3453FD1F5D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FD6E104-2A7A-4D14-B4F3-19477D50C18F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DB9A980-5B97-4C00-9604-6EDE8CFF3E7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06EF5163-C9FD-4C3B-BF65-0163D36F2022"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EA2A583F-F7B9-4753-B630-F41D7EEB78BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D12B560C-22BD-42E4-9467-2A47989C8513"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBD0E1F1-CAA0-4519-BE2C-DC44A83176BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D25635A-D6DB-4DB7-BEE0-C4E4626C5C36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D4ED956-62EA-493A-B0ED-5BD49D8FF87F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31D94A3C-5F7C-4C32-814C-BAC32D631DA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D74DEB96-319B-4628-B5AB-0D629DBDB7F4"
+    },
+    {
+      "class": "text",
+      "id": "98A7DF17-40E0-4DCB-B416-FC7F80082B49"
+    },
+    {
+      "class": "text",
+      "id": "9DFEC039-D68F-448F-A852-2B8C76D866E0"
+    },
+    {
+      "class": "slice",
+      "id": "4A439FC7-63FB-4FBF-BDC8-3E6AAF8E3293"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Type tokens light",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "CD977ADF-EF71-466E-97B3-82853AEEFD47",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

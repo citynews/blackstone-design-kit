@@ -1,0 +1,586 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1019607843137255,
+          "green": 0.1019607843137255,
+          "red": 0.1019607843137255
+        },
+        "do_objectID": "F7D39B3D-C7E2-4395-BF5A-3A1C59DABA7D",
+        "name": "$black"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5529411764705883,
+          "green": 0.5529411764705883,
+          "red": 0.5529411764705883
+        },
+        "do_objectID": "E1E92CC9-A48C-4A25-84AE-AC0546C904A5",
+        "name": "$darkgray"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7529411764705882,
+          "green": 0.7529411764705882,
+          "red": 0.7529411764705882
+        },
+        "do_objectID": "208BBC2C-B9D2-45B9-B152-BF85551CDEAA",
+        "name": "$lightgray"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9019607843137255,
+          "green": 0.9019607843137255,
+          "red": 0.9019607843137255
+        },
+        "do_objectID": "A5A25E7E-EC56-4E1C-8301-2167E3DE2C38",
+        "name": "$softgray"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9529411764705882,
+          "green": 0.9490196078431372,
+          "red": 0.9490196078431372
+        },
+        "do_objectID": "2CC52D91-AAFD-47C5-998D-7EBF7D50EDD2",
+        "name": "$offwhite"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "do_objectID": "D02B74D2-4A79-40F5-97CF-F3D015F53C0D",
+        "name": "$white"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2235294117647059,
+          "green": 0.1450980392156862,
+          "red": 0.007843137254901959
+        },
+        "do_objectID": "015FCBF7-FF35-4858-922F-CE100DE34640",
+        "name": "$darkblue"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5098039215686274,
+          "green": 0.3294117647058823,
+          "red": 0.02745098039215686
+        },
+        "do_objectID": "D25A2818-5CAE-482D-B71E-344823EBFF6A",
+        "name": "$marineblue"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.935,
+          "green": 0.8877272727272727,
+          "red": 0.8050000000000002
+        },
+        "do_objectID": "930D2C70-448E-4699-8F4C-7D13AD5DFD38",
+        "name": "$paleblue"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09019607843137256,
+          "green": 0.4000000000000001,
+          "red": 0.9529411764705882
+        },
+        "do_objectID": "4727DA0D-450F-43E6-919F-3119553F1E9B",
+        "name": "$orange"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2784313725490196,
+          "green": 0.5254901960784314,
+          "red": 0.9647058823529412
+        },
+        "do_objectID": "A29EEC08-068D-4575-B69F-6088292F9F88",
+        "name": "$lightorange"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.04313725490196078,
+          "green": 0.3137254901960784,
+          "red": 0.8
+        },
+        "do_objectID": "12D9B33D-4D0B-4658-ABD2-A05EA0E472EC",
+        "name": "$darkorange"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6705882352941176,
+          "green": 0.5490196078431373,
+          "red": 0.1294117647058823
+        },
+        "do_objectID": "D00ABF5F-FC9B-4D75-9369-5FEF19BAFDEC",
+        "name": "$teal"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8392156862745098,
+          "green": 0.6862745098039216,
+          "red": 0.1607843137254902
+        },
+        "do_objectID": "9495412A-2A87-4F74-B148-F250AEC33300",
+        "name": "$lightteal"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5019607843137255,
+          "green": 0.4117647058823529,
+          "red": 0.09803921568627451
+        },
+        "do_objectID": "90675EEF-E183-42A5-AA22-EA137FA57E42",
+        "name": "$darkteal"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2196078431372547,
+          "green": 0,
+          "red": 0.9294117647058824
+        },
+        "do_objectID": "48C8D014-1319-49BD-B824-E1539D411F15",
+        "name": "$dangerred"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4274509803921568,
+          "green": 0.611764705882353,
+          "red": 0.05098039215686274
+        },
+        "do_objectID": "88EA2BA8-3547-4374-95D5-B3D7ADA92C69",
+        "name": "$successgreen"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.8,
+          "red": 1
+        },
+        "do_objectID": "F0280FBE-604B-416D-B23F-92EF131C8249",
+        "name": "$warningyellow"
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1019607843137255,
+        "green": 0.1019607843137255,
+        "red": 0.1019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5529411764705883,
+        "green": 0.5529411764705883,
+        "red": 0.5529411764705883
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7529411764705882,
+        "green": 0.7529411764705882,
+        "red": 0.7529411764705882
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9019607843137255,
+        "green": 0.9019607843137255,
+        "red": 0.9019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9529411764705882,
+        "green": 0.9490196078431372,
+        "red": 0.9490196078431372
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2235294117647059,
+        "green": 0.1450980392156862,
+        "red": 0.007843137254901959
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5098039215686274,
+        "green": 0.3294117647058823,
+        "red": 0.02745098039215686
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.935,
+        "green": 0.8877272727272727,
+        "red": 0.8050000000000002
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.09019607843137256,
+        "green": 0.4000000000000001,
+        "red": 0.9529411764705882
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2784313725490196,
+        "green": 0.5254901960784314,
+        "red": 0.9647058823529412
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.04313725490196078,
+        "green": 0.3137254901960784,
+        "red": 0.8
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6705882352941176,
+        "green": 0.5490196078431373,
+        "red": 0.1294117647058823
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8392156862745098,
+        "green": 0.6862745098039216,
+        "red": 0.1607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5019607843137255,
+        "green": 0.4117647058823529,
+        "red": 0.09803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2196078431372547,
+        "green": 0,
+        "red": 0.9294117647058824
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4274509803921568,
+        "green": 0.611764705882353,
+        "red": 0.05098039215686274
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.8,
+        "red": 1
+      }
+    ],
+    "do_objectID": "8ADC1BC1-C834-4655-9054-5C0F961A26C3",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 1,
+  "do_objectID": "C1D8F86D-E998-4BB4-A988-E25A0ED7914E",
+  "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "123CA60D-C7C7-4858-AABC-FC3344D243BE",
+      "libraryID": "D7BAB4E9-E9A6-48FA-8407-EDBD9D83DE71",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "7A642958-B01B-4A7A-8A89-702284D1217C",
+        "name": "color/white",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "D7F57448-0F2D-4C6C-B90D-DC50C9A06457",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "6E63C3AF-8150-4B0F-AE7D-9644E3CFB7F8",
+      "sourceLibraryName": "IBM Design Language",
+      "symbolPrivate": false
+    }
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "60",
+    "build": 88103,
+    "version": 121
+  },
+  "pages": [
+    "Getting Started",
+    "Color Palette",
+    "Design Tokens",
+    "Spacings",
+    "Width",
+    " ",
+    "[Component template]",
+    "Accordion",
+    "Alerts",
+    "Backgrounds",
+    "Button",
+    "Label",
+    "Checkbox",
+    "Featureds",
+    "Header",
+    "Media Embed",
+    "Nav",
+    "Notifications",
+    "Pagination",
+    "Radio",
+    "Search",
+    "Sections",
+    "Select",
+    "Sticky",
+    "Table",
+    "Text Area",
+    "Text Input",
+    "Tile",
+    " ",
+    "Welcome",
+    "Featureds",
+    "Item Search",
+    "Item Edit",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
